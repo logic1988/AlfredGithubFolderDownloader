@@ -1,4 +1,4 @@
-AlfredHiddenFilesToggle
+AlfredGithubFolderDownloader
 ================
 
 Alfred Workflow for download a specific folder in GitHub.
